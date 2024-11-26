@@ -5,7 +5,7 @@ manifest:
     - name: badjeff
       url-base: https://github.com/badjeff
     - name: Penguinchat
-      url-base: https://github.com/penguinchat
+      url-base: https://github.com/Penguinchat
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -21,7 +21,7 @@ manifest:
       remote: badjeff
       revision: main
     - name: prospector-zmk-module
-      remote: penguinchat
+      remote: Penguinchat
       revision: support_nicenano
   self:
     path: config
